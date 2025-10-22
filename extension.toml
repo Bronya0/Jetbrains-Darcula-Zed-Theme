@@ -1,8 +1,7 @@
-id             = "jetbrains-darcula-zed-theme"
-name           = "Jetbrains Darcula Zed Theme"
+id             = "jetbrains-darcula-zed-bronya0-theme"
+name           = "Jetbrains Darcula theme by bronya0"
 description    = "Darcula theme from Jetbrains IDE, Like IDEA/Goland/Pycharm，My favorite theme, and you?"
-version        = "0.1.0"
-# Thanks to Evan for a large amount of the colors used, especially for the syntax highlighting
+version        = "0.1.1"
 authors        = ["Bronya0 <tangssst@163.com>"]
 repository     = "https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme"
 schema_version = 1
