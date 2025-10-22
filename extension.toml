@@ -3,6 +3,6 @@ name           = "Jetbrains Darcula Zed Theme"
 description    = "Darcula theme from Jetbrains IDE, Like IDEA/Goland/Pycharm，My favorite theme, and you?"
 version        = "0.1.0"
 # Thanks to Evan for a large amount of the colors used, especially for the syntax highlighting
-authors        = ["Bronya0 <tangssst@163.com>""]
+authors        = ["Bronya0 <tangssst@163.com>"]
 repository     = "https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme"
 schema_version = 1
